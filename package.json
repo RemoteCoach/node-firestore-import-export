@@ -41,7 +41,6 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "@google-cloud/firestore": "^3.5.0",
     "colors": "1.4.0",
     "commander": "^5.1.0",
     "core-js": "^3.1.3",
