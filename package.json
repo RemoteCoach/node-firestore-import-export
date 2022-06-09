@@ -48,9 +48,9 @@
     "load-json-file": "^6.2.0"
   },
   "peerDependencies": {
-    "firebase-admin": "^8.3.0",
-    "firebase-functions": "^3.2.0",
-    "@google-cloud/firestore": "5.0.2"
+    "firebase-admin": ">8.3.0",
+    "firebase-functions": ">3.2.0",
+    "@google-cloud/firestore": ">3.5.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
