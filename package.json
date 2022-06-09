@@ -40,6 +40,7 @@
   "preferGlobal": true,
 "dependencies": {
     "colors": "1.4.0",
+    "@google-cloud/firestore": "^5.0.2",
     "firebase-admin": "^10.0.2",
     "commander": "^5.1.0",
     "core-js": "^3.1.3",
